@@ -21,7 +21,7 @@
     "packages/*"
   ],
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "turbo-linux-64": "^2.3.3"
