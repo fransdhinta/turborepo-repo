@@ -1,0 +1,7 @@
+{
+    "name": "@fransdhinta/test-shared",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "private": true
+}
