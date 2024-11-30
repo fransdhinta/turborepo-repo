@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "dhinta-turborepo",
   "private": false,
   "scripts": {
     "build": "turbo build",
